@@ -12,11 +12,13 @@
     text-decoration: underline solid rgb(0, 0, 0);
     padding: 40px;
     margin: 40px;
+    border: 5px solid firebrick;
 }
 
-.recipe {
+li {
     font-family: Tahoma, Geneva, sans-serif;
     font-size: large;
     text-align: center;
     margin: auto;
+    text-align: center;
 }
