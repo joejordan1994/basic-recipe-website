@@ -1,24 +1,24 @@
 * {
-    box-sizing: border-box;
-    background-color: #d5d5d5;
+  box-sizing: border-box;
+  background-color: #d5d5d5;
 }
 
 .title {
-    font-family: Tahoma, Geneva, sans-serif;
-    text-align: center;
-    font-size: 40px;
-    color: #ff0000;
-    font-weight: 700;
-    text-decoration: underline solid rgb(0, 0, 0);
-    padding: 40px;
-    margin: 40px;
-    border: 5px solid firebrick;
+  font-family: Tahoma, Geneva, sans-serif;
+  text-align: center;
+  font-size: 40px;
+  color: #ff0000;
+  font-weight: 700;
+  text-decoration: underline solid rgb(0, 0, 0);
+  padding: 40px;
+  margin: 40px;
+  border: 5px solid firebrick;
 }
 
 li {
-    font-family: Tahoma, Geneva, sans-serif;
-    font-size: large;
-    text-align: center;
-    margin: auto;
-    text-align: center;
+  font-family: Tahoma, Geneva, sans-serif;
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  text-align: center;
 }
