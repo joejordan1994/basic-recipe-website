@@ -1,1 +1,0 @@
-This project is to create recipes. This project will be constantly changing as I learn new things. Cheers!
